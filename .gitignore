@@ -1,0 +1,10 @@
+# Nextflow
+.nextflow*
+work
+
+# Spyder
+.spyproject
+
+# Tests
+tests
+
